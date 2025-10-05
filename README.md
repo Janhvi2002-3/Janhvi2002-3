@@ -46,7 +46,14 @@
 
 
 ---
+### 💻 Projects Showcase
+| Project | Tech | Demo |
+|---------|------|------|
+| Flight Delay Analysis | Python, ML | [<img src="https://raw.githubusercontent.com/janhvi2002-3/flight-delay-analysis/main/demo.gif" width="200"/>](https://github.com/janhvi2002-3/flight-delay-analysis) |
+| Portfolio Website | React, Node.js | [<img src="https://raw.githubusercontent.com/janhvi2002-3/portfolio-website/main/demo.gif" width="200"/>](https://janhvisingh.netlify.app) |
+| Power BI Dashboard | Power BI, SQL | [<img src="https://raw.githubusercontent.com/janhvi2002-3/powerbi-dashboard/main/demo.gif" width="200"/>](https://github.com/janhvi2002-3/powerbi-dashboard) |
 
+---
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janhvi2002-3&show_icons=true&theme=dark&hide_border=true" width="48%" />
