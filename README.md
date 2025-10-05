@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,mongodb,mysql,postgresql,html,css,javascript,typescript,tailwind,bootstrap,aws,azure,tensorflow,pytorch,powerbi,tableau,git,github&theme=dark" />
 </p>
-<h3 align="center">⚙️ Tech Stack & Tools</h3>
+<h3 align="center">⚙️  Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
