@@ -1,17 +1,24 @@
-name: GitHub-Profile-3D-Contrib
+name: Update 3D Contribution Graph
+
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: janhvi2002-3
-
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+          git add profile-3d-contrib/profile-green-animate.svg
+          git commit -m "Update 3D contribution graph"
+          git push
