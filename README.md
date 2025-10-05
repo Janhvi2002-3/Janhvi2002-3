@@ -36,6 +36,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,mongodb,mysql,postgresql,html,css,javascript,typescript,tailwind,bootstrap,aws,azure,tensorflow,pytorch,powerbi,tableau,git,github&theme=dark" />
 </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 
 ---
 
