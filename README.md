@@ -11,9 +11,9 @@
 
 ---
 
-🌱 **Currently learning:** React.js, Node.js, Machine Learning, Power BI, and Cloud Technologies  
-💡 **Tech Interests:** Full-Stack Development, Data Analytics, AI/ML, and Business Intelligence  
-📫 **Reach me at:** [janhvisingh300@gmail.com](mailto:janhvisingh300@gmail.com)
+🌱 **Currently learning:**  React.js, Node.js, Machine Learning, Power BI, and Cloud Technologies  
+💡 **Tech Interests:**      Full-Stack Development, Data Analytics, AI/ML, and Business Intelligence  
+📫 **Reach me at:**         [janhvisingh300@gmail.com](mailto:janhvisingh300@gmail.com)
 
 ---
 
